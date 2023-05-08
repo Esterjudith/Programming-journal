@@ -9,3 +9,5 @@ This repo is a log of what I'm programming daily.
 -finished this project since only wanted to practice store page setup with Typescript & React for future e-commerce application.
 -created repo called "React-Typescript-Shopping-Cart"
 
+## 5/07/2023
+ -Decided to read the dev.java docs,download the jdk and write my first java program. I learn the syntax, how to compile etc, knowing OOP in javascript made the process a lot easier. 
