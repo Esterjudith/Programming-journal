@@ -30,8 +30,13 @@ This repo is a log of what I'm programming daily.
 
 # 7/03/23
 
-- Working on a client's website, it's a local Dominican restaurant that wants an interactive website where users can see the menu, make reservations and see current Yelp reviews.  We discussed the details, we agreed on a WordPress website in order for him to add new updates to the page himself once I complete the website and teach him how to do so.  sent him a contract to sign and it was and we are good to go. 
+-(written on 9/24) Working on a client's website, it's a local Dominican restaurant that wants an interactive website where users can see the menu, make reservations, and see current Yelp reviews.  We discussed the details, we agreed on a WordPress website in order for him to add new updates to the page himself once I complete the website and teach him how to do so.  sent him a contract to sign and it was and we are good to go. 
 
+# 8/20/23
+ - (backlog, written on 9/25) Have most of the website done, added a video of the restaurant to it and it looks great.  WordPress is a lot more fun than I thought it would be, I still prefer to fully code websites for clients but the plugins and themes in WordPress have been fun, learned a lot.  I did code some CSS for a few custom buttons so there was code in there.
+
+# 9/4/23
+-(backlog, written on 9/25) The website has been completed but still waiting for the client to give final approval since he's been out of the country for some time. 
 
  # 9/24/2023
  -I started a new project using next.js for the frontend and Node/Express for the backend.  I read through the docs and followed the tutorial in Next.js docs and it was very well done with a lot of details. However, I still thought it was a replacement for Express, so I was having a hard time figuring out how to create my project.  The personal project I'm working on is a health insurance proposal generator that will have available 3 fictitious insurance plans that users can select from.  The target market is health insurance brokers who would like to create a quote for their clients who are businesses looking for insurance for their employees. Therefore, I need to create a backend that will generate the API that will be used to create the proposal for companies.  I couldn't figure out how to do that just using Next.js, I had already set up the database with Supabase and was researching why it just didn't seem like I was reading Next.js docs correctly.  Then on YouTube, I found "Next.js Tutorial for Beginners|Nextjs 13 by programming with Mosh and that's when I finally understood that Next.js is only for frontend! I still have to create the Node/Express backend server for this project.  I'm so excited to have a clear plan now for how to structure the project. 
