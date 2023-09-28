@@ -1,4 +1,4 @@
-# Programming-log
+# Programming-Journal
 This repo is a log of what I'm programming daily. 
 
 ## 4/29/2023
