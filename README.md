@@ -44,5 +44,5 @@ This repo is a log of what I'm programming daily.
   # 10/12/2023
   -Created a table in Supabase(PostgreSQL) for the health insurance plans, and added all the necessary columns except for the premiums.  since it will be age-banded I have to create a separate premium per age group, was trying to alter the table to add these columns, but was having a little issue with it.  Looked through the Postgresql docs and I think the issue is that the data type I was using (decimal(10,2) doesn't exist in Postgresql, will look more into it. 
 
-    # 10/15/2023
-    -I have entered all three medical insurance plans into postgreSQL in Supabase.  It was not an easy task since the table had 22 columns.  I decided to create all the rows using the SQL editor except for the Bronze plan.  For that one, I used the table editor instead.  
+ # 10/15/2023
+  -I have entered all three medical insurance plans into postgreSQL in Supabase.  It was not an easy task since the table had 22 columns.  I decided to create all the rows using the SQL editor except for the Bronze plan.  For that one, I used the table editor instead.  
